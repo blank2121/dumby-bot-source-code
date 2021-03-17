@@ -424,4 +424,4 @@ async def b_t():
 client.loop.create_task(b_t())
 
 
-client.run("Nzg1NjA1MTIxMzcwNzUxMDM2.X86RyA.JFIj_MfV57GGFTvAcqGOEB2NCVw")
+client.run()
